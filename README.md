@@ -9,33 +9,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm Carlos Andres Pinilla</h1>
+<h1 align="center">Hi, I'm Carlos Andres Pinilla</h1>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-🌱 I’m a*WEB Development-MERN Full-Stack certified and a data scientis**
+Certified Full Stack Developer specializing in MERN stack and Data Scientist proficient in Python, SQL, and Power BI
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="center">
 
   
-🔭 I’m currently working on my Portfolio in my app Web. 😁
-  
-🌱 I’m currently learning Java-Spring boot, Angular + typescript Development.
-  
-👯 I’m looking to collaborate with other Developers. 😉
-  
-🥅 2024 Goals: Contribute to Open Source projects, software apps such as social media Proyect.
-  
-💬 Ask me about anything, I am happy to help. 😄
-  
-📬 How to reach me: Let's get in touch!
-  
-🧗 I try to: Go beyond and push the bounds.
-  
-⚡Fun fact: I love connecting with different people. 🙌
+Currently building my portfolio through innovative web applications that showcase my skills as a Certified Full Stack Developer and Data Scientist.
+
+Actively expanding my expertise by learning Java Spring Boot, Angular, and TypeScript to enhance my development toolkit.
+
+Open to collaborating with passionate developers on exciting projects, especially those involving data-driven solutions and full stack applications.
+
+2024 Goals: Contribute to impactful open source projects and develop software applications, including social media platforms that connect communities.
+
+Feel free to ask me about Python, SQL, Power BI, full stack development, or any tech topic—I’m always eager to share knowledge and help.
+
+Let’s connect! I’m open to networking, mentorship, and new opportunities.
+
+I strive to push boundaries and deliver solutions that go beyond expectations.
+
+Passionate about collaborating on open source projects and contributing to social applications that create a positive impact in the digital community.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -52,8 +47,6 @@
 
 <h3 align="left">Connect with me: <strong>charliepinilla29@gmail.com</strong></h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <strong> User_Profile : [charliepinilla777](https://github.com/charliepinilla777)</strong>
