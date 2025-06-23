@@ -2,24 +2,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=400&lines=Carlos+Andres+Pinilla,Front-End+Developer,;Back+End+Developer,;Data Scientist,;Active+Learner/Researcher,;Love+to+learn+new+stuffs!"></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h1 align="center">Hi, I'm Carlos Andres Pinilla</h1>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Certified Full Stack Developer specializing in MERN stack and Data Scientist proficient in Python, SQL, and Power BI
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="center">
 
-  
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 Currently building my portfolio through innovative web applications that showcase my skills as a Certified Full Stack Developer and Data Scientist.
 
-Actively expanding my expertise by learning Java Spring Boot, Angular, and TypeScript to enhance my development toolkit.
+Actively expanding my expertise by learning  Angular, REACT, NEXT and TypeScript to enhance my development toolkit.
 
 Open to collaborating with passionate developers on exciting projects, especially those involving data-driven solutions and full stack applications.
 
