@@ -1,45 +1,244 @@
+# Carlos Andres Pinilla - Portfolio
 
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# 🚀 Expert Data Scientist & Full Stack Developer
 
-<h1 align="center">Hi, I'm Carlos Andres Pinilla</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-Certified Full Stack Developer specializing in MERN stack and Data Scientist proficient in Python, SQL, and Power BI
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="center">
+### Machine Learning Engineer | Web Developer | Cross-Platform Specialist
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-Currently building my portfolio through innovative web applications that showcase my skills as a Certified Full Stack Developer and Data Scientist.
+![Portfolio Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2024-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-Actively expanding my expertise by learning  Angular, REACT, NEXT and TypeScript to enhance my development toolkit.
+[🌐 Live Portfolio](https://charliepinilla.dev) • [📧 Email](mailto:charliepinilla29@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/charliepinilla) • [🐙 GitHub](https://github.com/charliepinilla777)
 
-Open to collaborating with passionate developers on exciting projects, especially those involving data-driven solutions and full stack applications.
+</div>
 
-2024 Goals: Contribute to impactful open source projects and develop software applications, including social media platforms that connect communities.
+---
 
-Feel free to ask me about Python, SQL, Power BI, full stack development, or any tech topic—I’m always eager to share knowledge and help.
+## 📋 About Me
 
-Let’s connect! I’m open to networking, mentorship, and new opportunities.
+I'm a **Certified Full Stack Developer** and **Data Scientist** specializing in:
 
-I strive to push boundaries and deliver solutions that go beyond expectations.
+- 🤖 **Machine Learning & AI**: Building predictive models, data analysis, and intelligent systems
+- 💻 **Full Stack Development**: MERN stack, Next.js, TypeScript, and modern web technologies
+- 📱 **Cross-Platform Development**: Flutter, React Native for mobile applications
+- 📊 **Data Visualization**: Power BI, Tableau, D3.js, and interactive dashboards
+- ☁️ **Cloud Solutions**: AWS, Firebase, Google Cloud, and serverless architectures
 
-Passionate about collaborating on open source projects and contributing to social applications that create a positive impact in the digital community.
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br>
+## 🎯 Core Expertise
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Data Science & Machine Learning
+- **Python** • **TensorFlow** • **Scikit-learn** • **Pandas** • **NumPy**
+- Predictive modeling • Classification • Regression • Deep Learning
+- Feature engineering • Data preprocessing • Model optimization
 
+### Frontend Development
+- **React** • **Next.js** • **TypeScript** • **Tailwind CSS**
+- **HTML5** • **CSS3** • **JavaScript** • **Responsive Design**
+- Interactive dashboards • Real-time applications • Performance optimization
 
+### Backend & Databases
+- **Node.js** • **Express** • **MongoDB** • **PostgreSQL** • **MySQL**
+- **REST APIs** • **GraphQL** • **Authentication** • **Microservices**
+- Database design • Query optimization • Security implementation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+### Mobile Development
+- **Flutter** • **Dart** • **React Native**
+- Cross-platform applications • Real-time synchronization • Firebase integration
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Data Visualization & BI
+- **Power BI** • **Tableau** • **Plotly** • **D3.js** • **Apache Superset**
+- Business intelligence dashboards • Custom visualizations • Analytics
 
-<h3 align="left">Connect with me: <strong>charliepinilla29@gmail.com</strong></h3>
+### DevOps & Tools
+- **Git** • **Docker** • **AWS** • **Firebase** • **Vercel**
+- **GitHub** • **VS Code** • **CI/CD** • **Linux**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<strong> User_Profile : [charliepinilla777](https://github.com/charliepinilla777)</strong>
+## 🏆 Certifications & Achievements
+
+✅ Certified Full Stack Developer (MERN Stack)
+✅ Data Scientist & Machine Learning Expert
+✅ Cloud Solutions (AWS, Firebase, Google Cloud)
+✅ Cross-Platform Mobile Development
+✅ Advanced Data Analytics & Visualization
+✅ Open Source Contributor
+✅ Mentoring & Technical Leadership
+
+---
+
+## 🔬 Featured Projects
+
+### 1. **Machine Learning Predictive Models**
+Advanced ML models for flight delay prediction, customer churn analysis, and price forecasting using TensorFlow and Scikit-learn.
+
+**Technologies**: Python • TensorFlow • Scikit-learn • Pandas • Data Analysis
+
+### 2. **Full Stack Web Applications**
+MERN stack applications with real-time data processing, interactive dashboards, and seamless user experiences.
+
+**Technologies**: React • Node.js • MongoDB • TypeScript • Express
+
+### 3. **Cross-Platform Mobile Apps**
+Flutter applications for fitness tracking, service management, and community platforms with real-time synchronization.
+
+**Technologies**: Flutter • Dart • Firebase • Mobile Development
+
+### 4. **Data Visualization Dashboards**
+Interactive BI dashboards using Power BI and custom visualizations for business intelligence and real-time analytics.
+
+**Technologies**: Power BI • Tableau • D3.js • Analytics
+
+---
+
+## 💡 Quick Facts
+
+- 📍 **Location**: Colombia
+- 🎓 **Education**: Full Stack Development & Data Science
+- 🌐 **Languages**: Spanish (Native) • English (Fluent)
+- 🔧 **Preferred Stack**: React/Next.js + Node.js + MongoDB + Python
+- 🎨 **Design**: UI/UX enthusiast with modern design principles
+- 📈 **Focus**: Data-driven solutions, scalable applications, user experience
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18.x or higher
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/charliepinilla777/charliepinilla7777.git
+cd charliepinilla7777
+
+# Install dependencies
+npm install
+# or
+yarn install
+
+# Create .env.local file (if needed)
+cp .env.example .env.local
+```
+
+### Development
+
+```bash
+# Start development server
+npm run dev
+# or
+yarn dev
+
+# Open browser at http://localhost:3000
+```
+
+### Build for Production
+
+```bash
+# Build the project
+npm run build
+
+# Start production server
+npm start
+```
+
+---
+
+## 📁 Project Structure
+
+```
+charliepinilla7777/
+├── app/
+│   ├── layout.tsx          # Root layout with metadata
+│   ├── page.tsx            # Main page
+│   ├── globals.css         # Global styles
+│   └── ...
+├── components/
+│   ├── Hero.tsx            # Hero section with Lightning background
+│   ├── Lightning.tsx       # Lightning animation component
+│   ├── SkillsSection.tsx   # Skills and tools showcase
+│   ├── ProjectsSection.tsx # Featured projects
+│   └── ContactSection.tsx  # Contact and footer
+├── public/                 # Static assets
+├── package.json            # Dependencies and scripts
+├── tsconfig.json          # TypeScript configuration
+├── tailwind.config.js     # Tailwind CSS configuration
+├── next.config.js         # Next.js configuration
+└── README.md              # This file
+```
+
+---
+
+## 🎨 Features
+
+✨ **Stunning UI/UX**
+- Lightning animation background
+- Smooth scroll effects
+- Responsive design for all devices
+- Glass morphism effects
+- Gradient animations
+
+🔧 **Technical Excellence**
+- Built with Next.js 14
+- TypeScript for type safety
+- Tailwind CSS for styling
+- Optimized performance
+- SEO friendly
+
+📱 **Fully Responsive**
+- Mobile-first design
+- Tablet optimization
+- Desktop experience
+- Cross-browser compatible
+
+---
+
+## 🔗 Connect With Me
+
+📧 **Email**: charliepinilla29@gmail.com
+🐙 **GitHub**: [@charliepinilla777](https://github.com/charliepinilla777)
+💼 **LinkedIn**: [Carlos Andres Pinilla](https://linkedin.com/in/charliepinilla)
+🌐 **Portfolio**: [charliepinilla.dev](https://charliepinilla.dev)
+
+---
+
+## 🤝 Contributing
+
+I'm open to:
+- 🔗 Collaborations on exciting projects
+- 👨‍🏫 Mentorship opportunities
+- 📚 Knowledge sharing
+- 🚀 New opportunities
+
+Feel free to reach out! I'm always eager to connect with fellow developers and contribute to impactful projects.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🙏 Thank You
+
+Thank you for visiting my portfolio! I'm passionate about building solutions that make an impact. Let's connect and create something amazing together! 🚀
+
+---
+
+<div align="center">
+
+**© 2024 Carlos Andres Pinilla. All rights reserved.**
+
+*Data Scientist | Full Stack Developer | Machine Learning Engineer*
+
+[⬆ Back to top](#)
+
+</div>
