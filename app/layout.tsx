@@ -2,9 +2,9 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Carlos Andres Pinilla - Data Scientist & Full Stack Developer',
-  description: 'Expert Data Scientist, Machine Learning Engineer, and Full Stack Developer. Building intelligent solutions with React, Python, and modern web technologies.',
-  authors: [{ name: 'Carlos Andres Pinilla', url: 'https://github.com/charliepinilla777' }],
+  title: 'Radiant Gold Gems',
+  description: 'Radiant Gold Gems - Jewelry and precious gems.',
+  authors: [{ name: 'Radiant Gold Gems', url: 'https://github.com/charliepinilla777' }],
   keywords: [
     'Data Science',
     'Machine Learning',
@@ -17,16 +17,16 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     type: 'website',
-    locale: 'en_US',
+    locale: 'es_CO',
     url: 'https://charliepinilla.dev',
-    title: 'Carlos Andres Pinilla - Data Scientist & Full Stack Developer',
-    description: 'Expert in Machine Learning, Data Science, and Full Stack Development',
-    siteName: 'Carlos Andres Pinilla Portfolio',
+    title: 'Radiant Gold Gems',
+    description: 'Radiant Gold Gems - Jewelry and precious gems.',
+    siteName: 'Radiant Gold Gems',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Carlos Andres Pinilla - Data Scientist & Full Stack Developer',
-    description: 'Expert in Machine Learning, Data Science, and Full Stack Development',
+    title: 'Radiant Gold Gems',
+    description: 'Radiant Gold Gems - Jewelry and precious gems.',
   },
 };
 

@@ -10,7 +10,7 @@ interface ContactLink {
 
 const contactLinks: ContactLink[] = [
   {
-    title: 'Email',
+    title: 'Correo / Email',
     description: 'charliepinilla29@gmail.com',
     url: 'mailto:charliepinilla29@gmail.com',
     icon: '✉️',
@@ -18,21 +18,28 @@ const contactLinks: ContactLink[] = [
   },
   {
     title: 'GitHub',
-    description: '@charliepinilla777',
+    description: 'Ver perfil / View profile',
     url: 'https://github.com/charliepinilla777',
     icon: '🐙',
     color: 'from-gray-600 to-gray-800',
   },
   {
     title: 'LinkedIn',
-    description: 'Connect with me',
+    description: 'Conecta con nosotros / Connect with us',
     url: 'https://linkedin.com/in/charliepinilla',
     icon: '💼',
     color: 'from-blue-600 to-blue-400',
   },
   {
-    title: 'Portfolio',
-    description: 'View my work',
+    title: 'WhatsApp',
+    description: 'Chat directo / Direct chat: +57 302 815 2276',
+    url: 'https://wa.me/573028152276',
+    icon: '💬',
+    color: 'from-green-500 to-emerald-500',
+  },
+  {
+    title: 'Portafolio / Portfolio',
+    description: 'Ver catálogo / View catalog',
     url: 'https://charliepinilla.dev',
     icon: '🚀',
     color: 'from-purple-500 to-pink-500',
@@ -46,10 +53,10 @@ export default function ContactSection() {
         {/* Section Title */}
         <div className="text-center mb-16">
           <h2 className="text-4xl sm:text-5xl font-bold text-white mb-4">
-            Let's Connect
+            Conectemos / Let's Connect
           </h2>
           <p className="text-xl text-gray-300">
-            Open to collaborations, mentorship, and exciting opportunities
+            Disponibles para alianzas y pedidos especiales / Open to collaborations and special orders
           </p>
         </div>
 
@@ -72,7 +79,7 @@ export default function ContactSection() {
                 <h3 className="text-xl font-bold text-white mb-2">{link.title}</h3>
                 <p className="text-gray-300 text-sm mb-4">{link.description}</p>
                 <div className={`px-4 py-2 rounded-full bg-gradient-to-r ${link.color} text-white text-sm font-semibold`}>
-                  Connect
+                  Conectar / Connect
                 </div>
               </div>
 
@@ -87,26 +94,26 @@ export default function ContactSection() {
         {/* Call to Action */}
         <div className="mt-16 p-12 rounded-xl bg-gradient-to-r from-blue-900 via-purple-900 to-pink-900 border border-purple-500 border-opacity-30 text-center">
           <h3 className="text-3xl font-bold text-white mb-4">
-            Ready to build something amazing?
+            ¿Listos para una pieza única? / Ready for something amazing?
           </h3>
           <p className="text-gray-200 mb-8 text-lg">
-            I'm always interested in hearing about new projects and opportunities.
+            Estamos listos para crear contigo piezas especiales. / We are ready to craft something special with you.
           </p>
           <a
             href="mailto:charliepinilla29@gmail.com"
             className="inline-block px-8 py-4 bg-gradient-to-r from-blue-500 to-cyan-500 text-white font-bold rounded-lg hover:shadow-2xl transition-all transform hover:scale-105"
           >
-            Start a Conversation
+            Inicia una conversación / Start a Conversation
           </a>
         </div>
 
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-gray-700 text-center text-gray-400">
           <p className="mb-2">
-            © 2024 Carlos Andres Pinilla. All rights reserved.
+            © 2024 Radiant Gold Gems. All rights reserved.
           </p>
           <p className="text-sm">
-            Data Scientist | Full Stack Developer | Machine Learning Engineer
+            Joyería fina | Oro y gemas preciosas | Diseños exclusivos
           </p>
         </div>
       </div>

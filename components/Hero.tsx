@@ -20,23 +20,23 @@ export default function Hero() {
         <div className="text-center space-y-6 max-w-4xl">
           {/* Main Title */}
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white drop-shadow-lg">
-            Carlos Andres Pinilla
+            Radiant Gold Gems
           </h1>
 
           {/* Subtitle with Roles */}
           <div className="space-y-3">
             <p className="text-2xl sm:text-3xl text-blue-300 font-semibold drop-shadow-md">
-              Expert Data Scientist & Machine Learning Engineer
+              Joyería fina y gemas preciosas
             </p>
             <p className="text-xl sm:text-2xl text-cyan-300 drop-shadow-md">
-              Full Stack Developer | Web & Cross-Platform Applications
+              Oro, esmeraldas y diseños exclusivos
             </p>
           </div>
 
           {/* Description */}
           <p className="text-lg sm:text-xl text-gray-200 drop-shadow-md max-w-2xl mx-auto">
-            Building intelligent solutions that transform data into actionable insights. 
-            Specialized in machine learning, full-stack development, and creating scalable applications.
+            Brillamos con piezas únicas en oro y gemas auténticas, diseñadas para cada ocasión especial.
+            Calidad, elegancia y confianza en cada detalle.
           </p>
 
           {/* CTA Buttons */}
@@ -45,13 +45,13 @@ export default function Hero() {
               href="#about"
               className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition transform hover:scale-105"
             >
-              Learn More
+              Conocer Más / Learn More
             </a>
             <a
               href="mailto:charliepinilla29@gmail.com"
               className="px-8 py-3 bg-transparent border-2 border-cyan-400 text-cyan-300 hover:bg-cyan-400 hover:text-black font-semibold rounded-lg transition transform hover:scale-105"
             >
-              Get in Touch
+              Contáctanos / Get in Touch
             </a>
           </div>
 
